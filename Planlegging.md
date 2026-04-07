@@ -29,6 +29,7 @@ Eg skal sørge for at datamodellen og appen skal være fleksibel og kan endres v
 # Kostnadsoverslag:  
 Timekost - 225,- i timen  
 Estimert total pris Arbeider: 7 arbeidsdager * 7.5 timer * 225 = 11,812.5,- 
+
 Estimert pris for hosting: Hostingkostnader - 10000,- i mnd
 
 
