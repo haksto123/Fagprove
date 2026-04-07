@@ -13,7 +13,7 @@ Så opprette ny app, og lage stored procedures/views for å hente data ifra back
 Fin pussing av design og funksjonalitet
 Legge til ekstra funksjonalitet viss eg har ekstra tid til overs
 
-## Eventuelle Kilder
+## Kilder / Eventuelle Kilder
 [Vue docs](https://vuejs.org/guide/introduction), [Sql server docs](https://learn.microsoft.com/en-us/sql/sql-server/?view=sql-server-ver17), [w3schools](https://www.w3schools.com/), [Google Gemini](https://gemini.google.com), Omega365 Docs, kollegaer
 
 ## Skisser
