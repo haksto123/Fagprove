@@ -28,7 +28,11 @@ Strevde litt med selve kalender siden, fordi eg trur den beste måten var å lag
 
 <details>
 <summary> 10.04.26 (Fredag) </summary>
-<ul><li> Lagte ein ny tabell i tabell strukten (atbl_aHakon_PersonsBookings) for å inserte inn bookings inn i denne tabellen istedenfor å oppdatere atbl_aHakon_PhotoBookingDetails med person_ID på ei rad </li></ul>
+<ul>
+  <li> Lagte ein ny tabell i tabell strukten (atbl_aHakon_PersonsBookings) for å inserte inn bookings inn i denne tabellen istedenfor å oppdatere atbl_aHakon_PhotoBookingDetails med person_ID, siden dette blei ein del kluss og funket ikkje så bra. </li>
+  <li> Har satt opp My Bookings tabben inne i details appen der man kan se kva slags bookings du har lagd på ein spesifik dato. </li>
+  <li> Trur det grunnleggende er på plass nå ish, men mangler ein del UI fixes, også mangler eg ein cancel booking knapp. </li>
+</ul>
 </details>
 
 <details>
