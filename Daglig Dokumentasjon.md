@@ -37,12 +37,12 @@ Strevde litt med selve kalender siden, fordi eg trur den beste måten var å lag
 
 <details>
 <summary> 11.04.26 (Lørdag) </summary>
-<ul><li> tekst </li></ul>
+<ul><li> ... </li></ul>
 </details>
 
 <details>
 <summary> 12.04.26 (Søndag) </summary>
-<ul><li> tekst </li></ul>
+<ul><li> La til ein Cancel Booking knapp for bookings opprettet (astp_aHakon_CancelBooking) for å gjennomføre dette </li></ul>
 </details>
 
 <details>
