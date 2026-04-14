@@ -57,6 +57,7 @@
 | astp_aHakon_CreateBooking     | Setter inn i atbl_aHakon_PersonsBookings-tabellen. Har også sjekk for å hindre dobbeltbooking og sjekk for om dagen er fullbooket                                                      | <img width="742" height="680" alt="image" src="https://github.com/user-attachments/assets/f2ac2f0e-e1d9-4041-9d99-488f117a1d8b" /> |
 | astp_aHakon_GetBookingsByDate | Sjekker om en dag har 3 eller flere bookinger                                                                                                                                          | <img width="605" height="288" alt="image" src="https://github.com/user-attachments/assets/c2fa2f10-38bb-4e93-ad5a-594c8620df7e" /> |
 | astp_aHakon_CancelBooking     | Brukes for å kansellere bookinger. Har også sjekk for å hindre at brukere sletter andres bookinger                                                                                     | <img width="505" height="383" alt="image" src="https://github.com/user-attachments/assets/e62eed3e-c1fd-41e4-86e6-9757c65b6b10" /> |
+| astp_aHakon_BookingConfirmation | Denne sender ein SMS til brukeren for å bekrefte bookingen deiras, sender Email viss ingen telefonnummer er funnet. | <img width="1338" height="1130" alt="image" src="https://github.com/user-attachments/assets/a224d1d2-3866-4e54-8039-15069eb1e955" />
 
   </details>
 
