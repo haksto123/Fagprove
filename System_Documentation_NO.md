@@ -128,7 +128,7 @@ I mitt tilfelle:
 <details>
   <summary>App Structure</summary>
 
-Se [User Manual]() for gjennomgang.
+Se [User Manual](User_Manual_NO.md) for gjennomgang.
 
 ---
 
