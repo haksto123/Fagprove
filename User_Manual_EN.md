@@ -1,5 +1,12 @@
 # User Manual <img width="225" height="225" alt="omega no background" src="https://github.com/user-attachments/assets/d2ebf198-c6db-432d-a68a-579f13211863" />
 
+<table align="center">
+  <tr>
+    <td><b><a href="User_Manual_EN.md"><code>English</code></a></b></td>
+    <td><a href="User_Manual_NO.md">Norwegian</a></td>
+  </tr>
+</table>
+
 <details>
 <summary> Admin Tab </summary>
 
