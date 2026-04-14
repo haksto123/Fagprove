@@ -1,5 +1,12 @@
 # System Documentation
 
+<table align="center">
+  <tr>
+    <td><b><a href="System_Documentation_EN.md"><code>English</code></a></b></td>
+    <td><a href="System_Documentation_NO.md">Norwegian</a></td>
+  </tr>
+</table>
+
 ## Task
 
 - Develop a photo booking application where users can book photoshoots. A photoshoot should minimum have a date, a location, a description, and a max amount of persons. Users should leave their name and phone number after the booking.
