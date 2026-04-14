@@ -47,7 +47,10 @@ Strevde litt med selve kalender siden, fordi eg trur den beste måten var å lag
 
 <details>
 <summary> 13.04.26 (Mandag) </summary>
-<ul><li> tekst </li></ul>
+<ul>
+  <li> Endret måten du legger til nye bookings, istendenfor å inserte med å skrive under gridden så har eg lagd ein knapp så heter "Add new Booking". Grunenn til dette er fordi da kan eg tvinge admin til å legge til details, siden det var mulig å lage ein booking uten details før. </li>
+  <l1> Fikset mange små feil, som dobbel sjekker for å sørge for at man ikkje kan snike seg gjennom UI </l1>
+</ul>
 </details>
 
 <details>
