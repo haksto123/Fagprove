@@ -8,9 +8,9 @@
 </table>
 
 <details>
-<summary> Admin Tab </summary>
+<summary> Admin Side </summary>
 
-* Du kan kun opprette, redigere og slette quizzes hvis du har riktige rettigheter. Hvis du kun har user role vil ikke "edit photoshoots" tabben vises.
+* Du kan kun opprette, redigere og slette Photoshoots hvis du har riktige rettigheter. Hvis du kun har user role vil ikke "edit photoshoots" tabben vises.
 
 * For å opprette en photoshoot må du gå inn på edit photoshoots tabben, deretter trykke på knappen create new booking, dette vil åpne en modal hvor du kan skrive inn alle nødvendige detaljer for bookingen. <img width="1727" height="1155" alt="image" src="https://github.com/user-attachments/assets/a22301c9-6f7d-45d1-af9b-8fbd5bb31792" /> <img width="491" height="485" alt="image" src="https://github.com/user-attachments/assets/eec8600e-652e-4218-9f6d-73b88fded874" />
 
@@ -28,7 +28,7 @@
 
 </details>
 <details> 
-<summary> How To Book </summary>
+<summary> Hvordan booke </summary>
 
 * Start i kalender-appen og velg en dato som passer for deg, merk at hvis en dato er markert som rød betyr det at dagen er fullbooket og du kan ikke velge den datoen.
 
