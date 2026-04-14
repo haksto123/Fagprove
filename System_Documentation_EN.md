@@ -51,6 +51,7 @@
 | astp_aHakon_CreateBooking | This procedure Inserts into the atbl_aHakon_PersonsBookings table, it also has a  check to make sure a person cant book something twice, and has a check if the day is fully booked. | <img width="742" height="680" alt="image" src="https://github.com/user-attachments/assets/f2ac2f0e-e1d9-4041-9d99-488f117a1d8b" />
 | astp_aHakon_GetBookingsByDate | This procedure is a check to see if a day is has more or equal to 3 bookings in a day. | <img width="605" height="288" alt="image" src="https://github.com/user-attachments/assets/c2fa2f10-38bb-4e93-ad5a-594c8620df7e" />
 | astp_aHakon_CancelBooking | This last procedure ive made is for canceling bookings a person has made. It also has a check to make sure you cant delete another persons booking | <img width="505" height="383" alt="image" src="https://github.com/user-attachments/assets/e62eed3e-c1fd-41e4-86e6-9757c65b6b10" />
+| astp_aHakon_BookingConfirmation | This procedure sends an SMS with a confirmation of the booking, aswell sends an email if no phonenumber is attached to the person thats booking | <img width="1338" height="1130" alt="image" src="https://github.com/user-attachments/assets/a224d1d2-3866-4e54-8039-15069eb1e955" />
 
   </details>
 </details>
